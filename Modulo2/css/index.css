@@ -5,3 +5,11 @@ p {
 body {
     background-color: grey;
 }
+
+#ColorRojo {
+    color: red;
+}
+
+.FondoAzul {
+    background-color: blue;
+}
