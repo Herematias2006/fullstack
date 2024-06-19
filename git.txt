@@ -1,3 +1,0 @@
-git init -> repositorio local
-u -> sin seguimiento
-git add - agrega las carpetas al repositorio
